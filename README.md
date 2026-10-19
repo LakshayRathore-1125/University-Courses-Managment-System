@@ -1,4 +1,4 @@
-# University-Courses-Managment-System
+# University-Courses-Management-System
 
 A Relational Database project developed using PostgreSQL and managed through pgAdmin 4. This project demonstrates database design, relational integrity, SQL constraints, CRUD operations, and queries across university-related tables.
 ______________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
